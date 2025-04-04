@@ -1,4 +1,4 @@
-# Bitcoin Price Extension
+![image](https://github.com/user-attachments/assets/5d99e2e9-e618-4ab7-8f24-8c121c0db113)# Bitcoin Price Extension
 
 A GNOME Shell extension to display the current Bitcoin price directly on your desktop.
 
@@ -31,3 +31,5 @@ Once enabled, the Bitcoin price will be displayed in your GNOME Shell panel. The
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+![image](https://github.com/user-attachments/assets/ae5bd4cf-b513-4aa1-8a63-048663ff15c7)
