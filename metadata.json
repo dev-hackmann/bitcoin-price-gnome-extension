@@ -1,7 +1,7 @@
 {
   "uuid": "bitcoin-price@dev-hackmann.github.com",
   "name": "Bitcoin Price",
-  "description": "Uma extensão GNOME para ver o preço do bitcoin",
+  "description": "A GNOME extension to view the price of Bitcoin.",
   "shell-version": ["48"],
   "version": 1
 }
