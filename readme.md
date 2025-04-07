@@ -31,5 +31,3 @@ Once enabled, the Bitcoin price will be displayed in your GNOME Shell panel. The
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-![image](https://github.com/user-attachments/assets/ae5bd4cf-b513-4aa1-8a63-048663ff15c7)
