@@ -1,10 +1,8 @@
 .bitcoin-price {
-    padding: 2px 5px 2px 5px;
     color: white;
     font-weight: bold;
     border: 2px solid transparent;
     border-radius: 5px; /* Bordas arredondadas para um visual moderno */
-
 }
 
 .bitcoin-price:hover {
